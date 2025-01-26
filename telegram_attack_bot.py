@@ -23,8 +23,8 @@ ADMIN_IDS = config["ADMIN_IDS"]
 BINARY_PATH = "./attack_binary"
 
 # System capacity-based settings
-MAX_PACKET_SIZE = 4096  # Adjust based on your system's capability
-MAX_THREAD_COUNT = 2000  # Adjust based on your system's capability
+MAX_PACKET_SIZE = 8192  # Adjust based on your system's capability
+MAX_THREAD_COUNT = 5000  # Adjust based on your system's capability
 
 # Initialize Telegram bot
 bot = TeleBot(BOT_TOKEN)
