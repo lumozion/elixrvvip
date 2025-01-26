@@ -1,5 +1,0 @@
-
-telebot
-requests
-python-telegram-bot==20.1
-pytz
