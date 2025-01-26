@@ -28,8 +28,8 @@ KEY_PRICES = {
     'day': 80,
     'week': 500
 }
-ADMIN_IDS = []  # Add admin IDs here
-BOT_TOKEN = ""  # Add your bot token here
+ADMIN_IDS = [6773132033]  # Add admin IDs here
+BOT_TOKEN = "7971488271:AAE5o0zQj2NBpwcWBQjIKSCiWT63jbRy4f8"  # Add your bot token here
 THREAD_COUNT = 45000  # Enhanced thread count for performance
 PACKET_SIZE = 450  # Enhanced packet size for larger payloads
 COOLDOWN_MINUTES = 0
